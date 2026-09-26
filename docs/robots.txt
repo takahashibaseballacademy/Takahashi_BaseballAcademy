@@ -1,0 +1,1 @@
+User-agent: * Allow: / Sitemap: https://takahashibaseballacademy.github.io/Takahashi_BaseballAcademy/sitemap.xml 
